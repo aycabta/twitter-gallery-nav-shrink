@@ -18,4 +18,3 @@ Twitter Gallery Navigation Shrink
 ![after right click](after_r_click.png)
 
 You can right click the *actual image*.
-

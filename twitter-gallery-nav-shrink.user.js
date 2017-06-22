@@ -19,4 +19,3 @@
                      '    width: 33% !important;' +
                      '}', sheet.cssRules.length);
 })();
-
