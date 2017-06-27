@@ -1,6 +1,8 @@
 Twitter Gallery Navigation Shrink
 =================================
 
+It's broken on new design, I'll fix soon.
+
 [This Greasemonkey script on OpenUserJS.org](https://openuserjs.org/scripts/aycabta/Twitter_Gallery_Nav_Shrink)
 
 ## Example
