@@ -1,5 +1,6 @@
 ﻿// ==UserScript==
 // @name       Twitter Gallery Nav Shrink
+// @license    MIT
 // @namespace  http://aycabta.github.io/
 // @version    0.0.1
 // @description  Twitter Gallery Nav Shrink
